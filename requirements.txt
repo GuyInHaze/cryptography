@@ -2,4 +2,3 @@ qrcode[pil]>=7.4.2
 pillow>=9.0.0
 pyzbar>=0.1.9
 cryptography>=36.0.0
-bcrypt>=3.2.0
