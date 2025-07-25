@@ -1,6 +1,6 @@
 import sys
 from typing import Callable
-sys.path.append('C:/Users/nick/Desktop/cryptography/utils')
+sys.path.append('../utils')
 
 from utils.doublezigzagencryption import DoubleZigzagCipher
 from utils.encode_into_image_and_decode import encrypt_text_to_image, decrypt_text_from_image
